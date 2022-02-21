@@ -8,9 +8,9 @@ All activities were performed using the Jupyter Notebook platform and using pyth
 ## Quick description of each project
 
 1. Body Mass Index (BMI) calculator;
-2. Display all prime numbers in the range 1 to 100.
-3. Given the answers about the interest of candidates to take 3 university courses, the code shows the percentage of votes and, among these courses, which one was the most voted.
-4. Demonstration of sets theory through a gift list.
-5. Representation of a library system in which books are presented according to genre, subgenre, book name and their quantities.
-6. This code displays the events of a agenda according to the selected parameters.
+2. Display all prime numbers in the range 1 to 100;
+3. Given the answers about the interest of candidates to take 3 university courses, the code shows the percentage of votes and, among these courses, which one was the most voted;
+4. Demonstration of sets theory through a gift list;
+5. Representation of a library system in which books are presented according to genre, subgenre, book name and their quantities;
+6. This code displays the events of a agenda according to the selected parameters;
 7. Basic tamagochi-inspired game.

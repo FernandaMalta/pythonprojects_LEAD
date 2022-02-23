@@ -2,8 +2,8 @@
 
 # Introduction
 
-The projects included in this repository were used as assignments for the Python Programming course offered by *LEAD Dell - Dell Research, Development and Innovation Center* in partnership with the **Universidade Estadual do Ceará** (UECE).
-All activities were performed using the Jupyter Notebook platform and using python as the programming language, as it was one of the prerequisites of the course.
+The projects of this repository were used as assignments for the Python Programming course offered by *LEAD Dell - Dell Research, Development and Innovation Center* in partnership with the **Universidade Estadual do Ceará** (UECE).
+All activities were performed using the Jupyter Notebook platform and Python as the programming language, as it was one of the prerequisites of the course.
 
 ## Quick description of each project
 

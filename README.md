@@ -7,6 +7,10 @@ All activities were performed using the Jupyter Notebook platform and using pyth
 
 ## Quick description of each project
 
+The activities are located in the "Projects" folder and named as follows:
+- Name correlated with the content of the project (in Portuguese) followed by a number at the end to locate it according to the index below.
+  **Ex: nameof_project_1** 
+
 1. Body Mass Index (BMI) calculator;
 2. Display all prime numbers in the range 1 to 100;
 3. Given the answers about the interest of candidates to take 3 university courses, the code shows the percentage of votes and, among these courses, which one was the most voted;
